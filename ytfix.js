@@ -18,7 +18,7 @@ function onYouTubeIframeAPIReady(){
 	e.appendChild(a);
 
 	var o=function(e){
-		var a=e?"S4qbDDC.png":"rafupjr.png";
+		var a=e?"S4qbDDC.png":"S4qbDDC.png";
 		t.setAttribute("src","https://i.imgur.com/"+a)
 	};
 		e.onclick=function(){
