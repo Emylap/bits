@@ -3,7 +3,8 @@
  --------------------
  
  Author: Amit Agarwal
- Web: http://www.labnol.org/?p=26740 
+ Web: http://www.labnol.org/
+ Edit: change img files link deleted
 */
 
 function onYouTubeIframeAPIReady(){
